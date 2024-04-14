@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Коктейльный бар</string>
+
+
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="error">Ошибка</string>
+
+
+    <string name="add_cocktail_button">Добавить коктейль</string>
+    <string name="my_cocktails">Мои коктейли</string>
+    <string name="add_first_cocktail">Добавьте свой первый коктейль здесь</string>
+    <string name="no_cocktails">Нет коктейлей</string>
+    <string name="share_message">Посмотрите, какие коктейли я создал в приложении Коктейльный бар!\n%1$s и другие\nХотите попробовать?</string>
+
+
+    <string name="recipe_with_colon">Рецепт:</string>
+    <string name="edit">Редактировать</string>
+    <string name="cocktail_not_found">Коктейль не найден</string>
+
+    <string name="title">Заголовок</string>
+    <string name="add_title">Добавить заголовок</string>
+    <string name="optional_field">Дополнительное поле</string>
+    <string name="description">Описание</string>
+    <string name="recipe">Рецепт</string>
+    <string name="load_image">Загрузить изображение</string>
+    <string name="save">Сохранить</string>
+    <string name="add_ingredient">Добавить ингредиент</string>
+    <string name="delete_ingredient">Удалить ингредиент</string>
+    <string name="add_at_least_one_ingredient">Добавьте хотя бы один ингредиент</string>
+    <string name="ingredient">Ингредиент</string>
+    <string name="add">Добавить</string>
+    <string name="confirm_deletion">Подтвердить удаление</string>
+    <string name="deletion_confirm">Вы уверены, что хотите удалить этот рецепт?</string>
+    <string name="delete">Удалить</string>
+    <string name="share_cocktails">Поделиться коктейлями</string>
+</resources>
